@@ -1,0 +1,89 @@
+.bac{
+    background-color: black;
+    width: 15%;
+    float: left;
+    margin: 20px;
+    padding: 30px;
+   
+}
+.bac p{
+    
+    color: white;
+    font-size: 20px;
+}
+.countainer{
+
+   margin-bottom: 250px;
+}
+p{
+    text-align: center;
+    padding: 2%;
+}
+.block{
+   display: inline-block;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+   padding: 5px;
+}
+ .hr{
+    padding-left: 50%;
+    padding-right: 2%;
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+
+.details p{
+    display: inline-block;
+}
+a{
+    float: right;
+    color:inherit;
+    color: rgb(204, 164, 111);
+
+}
+.h33{
+    text-align: left;
+    color: black;
+    opacity: .5;
+    margin-top: -40px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    
+    
+}
+.all p{
+    display: block;
+    unicode-bidi: isolate;
+    margin: 0px;
+}
+.font{
+    color: white;
+    text-align: center;
+
+}
+.all{
+    
+    margin-left: 12%;
+    margin-right:10%;
+}
+.blocdetales{
+    display: inline-block;
+    width: 22%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+}
+.footer{
+    background-color: rgba(45, 45, 45, 0.829);
+    height: 80px;
+    margin-bottom: 0px;
+}
+.footer p{
+    display: inline-block;
+    color: white;
+    padding-left: 70px;
+    padding-bottom: 20px;
+}
+.p2{
+    margin-left: 390px;
+}
